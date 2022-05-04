@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
+    padding: 0;
+}
+
+.top {
+    position: relative;
+    padding-top: 100px;
+    background-color: #F6F6F6;
+}
+
+.cloud-one {
+    position: absolute;
+    right: 100px;
+}
+.cloud-two {
+    position: absolute;
+    right: 100px;
+}
+
